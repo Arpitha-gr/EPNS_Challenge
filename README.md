@@ -1,9 +1,7 @@
-# Getting Started with Create React App
-
-Question ID - 2.A   
-
-Challange Description:
+# Question ID - 2.A: Challange Description:
 Design a basic web app or react native app, In which you have to implement sorting and filter options, for data you can use any third-party API’s
+
+ Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
